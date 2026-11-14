@@ -1,0 +1,4 @@
+client/
+*.pem
+*.key
+.env

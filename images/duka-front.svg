@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f4efe6"/>
+  <rect x="60" y="60" width="680" height="80" fill="#1f4e3d"/>
+  <text x="400" y="112" font-family="sans-serif" font-size="36" text-anchor="middle" fill="#ffffff">Baraka Fresh Duka</text>
+  <rect x="120" y="200" width="160" height="120" fill="#d97a1a"/>
+  <rect x="320" y="200" width="160" height="120" fill="#2e6f57"/>
+  <rect x="520" y="200" width="160" height="120" fill="#d97a1a"/>
+  <text x="400" y="365" font-family="sans-serif" font-size="22" text-anchor="middle" fill="#1b1b1b">Daily Groceries, Flour, Sugar and Airtime</text>
+</svg>
